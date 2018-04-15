@@ -1,5 +1,5 @@
 ## Assignment 1
-## Create a console application which is Employee timesheet management portal.
+## Create a console application which is an Employee timesheet management portal.
 ## The application should ask for user login (Only one user)
 ## After successful login provide the user with two options
     ## A. View timesheet data till now
